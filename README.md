@@ -1,3 +1,3 @@
 # ashuprojects
-git clone https://github.com/aashenaf/ashprojects.git
+git clone https://github.com/aashenaf/ashuprojects.git
 cd ashprojects
